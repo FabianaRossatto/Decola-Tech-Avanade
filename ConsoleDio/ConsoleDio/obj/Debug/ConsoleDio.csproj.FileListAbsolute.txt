@@ -1,7 +1,0 @@
-C:\Users\Fabiana\source\repos\ConsoleDio\ConsoleDio\bin\Debug\ConsoleDio.exe.config
-C:\Users\Fabiana\source\repos\ConsoleDio\ConsoleDio\bin\Debug\ConsoleDio.exe
-C:\Users\Fabiana\source\repos\ConsoleDio\ConsoleDio\bin\Debug\ConsoleDio.pdb
-C:\Users\Fabiana\source\repos\ConsoleDio\ConsoleDio\obj\Debug\ConsoleDio.csproj.AssemblyReference.cache
-C:\Users\Fabiana\source\repos\ConsoleDio\ConsoleDio\obj\Debug\ConsoleDio.csproj.CoreCompileInputs.cache
-C:\Users\Fabiana\source\repos\ConsoleDio\ConsoleDio\obj\Debug\ConsoleDio.exe
-C:\Users\Fabiana\source\repos\ConsoleDio\ConsoleDio\obj\Debug\ConsoleDio.pdb
